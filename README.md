@@ -19,6 +19,18 @@ O Bitcoin Converter exibe em tempo real sua cotação nas seguintes moedas:
 - **EURO:** Moeda da União Europeia;
 
 ---
+
+## 🧬 Atualizado
+Foram adicionadas mais 5 moedas para conferir a cotação do Bitcoin:
+- **THB** Baht Tailandês;
+- **PAB** Balboa Panamenho;
+- **ETB** Birr Etíope;
+- **BOB** Boliviano da Bolívia;
+- **MXN** Peso Mexicano;
+
+- **Python;**
+
+---
  
 ## 🧬 Tecnologias utilizadas
 Tecnologias utilizadas na construção do app:
@@ -29,7 +41,7 @@ Tecnologias utilizadas na construção do app:
 
 ## Versão Atual
 
-- **Version 1.0**
+- **Version 1.1**
 
 ---
 
