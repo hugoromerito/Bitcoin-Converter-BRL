@@ -28,8 +28,6 @@ Foram adicionadas mais 5 moedas para conferir a cotação do Bitcoin:
 - **BOB:** Boliviano da Bolívia;
 - **MXN:** Peso Mexicano;
 
-- **Python;**
-
 ---
  
 ## 🧬 Tecnologias utilizadas
