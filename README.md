@@ -7,7 +7,7 @@
  ​  Programa de cotação do Bitcoin 
  ​</h4> 
   
- ​![​Resultado final do projeto​](img/preview.jpg) 
+ ​![​Resultado final do projeto​](img/preview2.jpg) 
 
 
 
@@ -24,11 +24,6 @@ O Bitcoin Converter exibe em tempo real sua cotação nas seguintes moedas:
 Tecnologias utilizadas na construção do app:
 
 - **Python;**
-
----
-
-## 🧬 Atualizações
-Em breve, o Bitcoin Converter contará com um menu com diversas opções de moedas para escolher e ver sua cotação em tempo real. 
 
 ---
 
