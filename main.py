@@ -7,10 +7,9 @@ import requests
 import json
 
 
-# -------------------------- SEJA BEM-VINDO E FIQUE A VONTADE --------------------------
-
-# ------------- ME CHAMO HUGO E TENHO OUTROS PROJETOS COMO ESSE NO MEU -------------
-# ------------- PORTFÓLIO ONLINE NO GITHUB: https://github.com/hugoromerito -------------
+""" ------------------------ SEJA BEM-VINDO E FIQUE A VONTADE --------------------------
+---------------- ME CHAMO HUGO E TENHO OUTROS PROJETOS COMO ESSE NO MEU ----------------
+-------------- PORTFÓLIO ONLINE NO GITHUB: https://github.com/hugoromerito ------------- """
 
 
 
@@ -21,12 +20,12 @@ import json
 
 
 # ------------- PALETA DE CORES ------------
-color1 = "#6f9fbd"  # azul / blueco2
-color2 = "#000000"  # Preta / blackco0
-color3 = "#feffff"  # branca / whiteco1
+color1 = "#6f9fbd"  # azul claro
+color2 = "#000000"  # Preta
+color3 = "#feffff"  # branca
 
-bground = "#F5CE85"  # background
-bground2 = "#6e6e6e"
+bground = "#F5CE85"  # background laranja
+bground2 = "#6e6e6e" # background cinza
 
 # ------------- CRIA JANELA -------------
 janela = Tk()
