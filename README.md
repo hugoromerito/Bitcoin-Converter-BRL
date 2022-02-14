@@ -14,7 +14,7 @@
 ## 📚 Função
 O Bitcoin Converter exibe em tempo real sua cotação nas seguintes moedas:
 
-- **BRL** Real brasileiro;
+- **BRL:** Real brasileiro;
 - **USD:** Dolar americano;
 - **EURO:** Moeda da União Europeia;
 
@@ -22,11 +22,11 @@ O Bitcoin Converter exibe em tempo real sua cotação nas seguintes moedas:
 
 ## 🧬 Atualizado
 Foram adicionadas mais 5 moedas para conferir a cotação do Bitcoin:
-- **THB** Baht Tailandês;
-- **PAB** Balboa Panamenho;
-- **ETB** Birr Etíope;
-- **BOB** Boliviano da Bolívia;
-- **MXN** Peso Mexicano;
+- **THB:** Baht Tailandês;
+- **PAB:** Balboa Panamenho;
+- **ETB:** Birr Etíope;
+- **BOB:** Boliviano da Bolívia;
+- **MXN:** Peso Mexicano;
 
 - **Python;**
 
